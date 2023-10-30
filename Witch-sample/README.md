@@ -4,8 +4,7 @@
 
 Here is my cute witchy picture
 
-.ve-media gh:amberalyvia/media/Folder-for-Sample-Project/witchy.jpg right
-Here is my sample photo
-
-.ve-media gh:amberalyvia/media/Shutterstock/PSL.jpg left
+.ve-media
+   - gh:amberalyvia/media/Folder-for-Sample-Project/Witchy.jpg 
+   - gh:amberalyvia/media/Shutterstock/PSL.jpg 
 Here is a cute coffee
